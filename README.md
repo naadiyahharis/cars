@@ -7,8 +7,8 @@ The page have a table which contain six details about used cars by using XML and
 
 Tags inside the XML file are: car, car_details, name, status, condition, year, mileage, capacity, price, picture_name, date and region.
 
-<br />
-Below are the result image of this lab:
+
+### Below are the result image of this lab:
 
 ![Alt text](Output_1_1.JPG?raw=true "Output")
 
